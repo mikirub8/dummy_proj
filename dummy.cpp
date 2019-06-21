@@ -4,7 +4,7 @@
 using namespace std;
 
 dummy::dummy(){
-    std::cout << "inside constructor\n";
+    std::cout << "inside constructor ##2\n";
     }
 
 void dummy::hello_dummy(){
