@@ -5,6 +5,7 @@ using namespace std;
 
 dummy::dummy(){
     std::cout << "inside constructor ##2\n";
+    std::cout << "adding new line saturday 2300";
     }
 
 void dummy::hello_dummy(){
